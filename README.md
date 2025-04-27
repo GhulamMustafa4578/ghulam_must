@@ -1,2 +1,4 @@
 # ghulam_must
-this is my first repository
+this is my first repository.
+author_me
+
